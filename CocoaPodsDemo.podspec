@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "CocoaPodsDemo", "CocoaPodsDemo/**/*.{h,m}"
+  s.source_files  = "CocoaPodsDemo", "CocoaPodsDemo/ViewController.{h,m}"
   #s.exclude_files = "CocoaPodsDemo/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
